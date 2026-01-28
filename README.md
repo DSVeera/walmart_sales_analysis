@@ -4,6 +4,12 @@ Walmart Sales Analysis using Python and SQL to uncover sales trends, customer be
 ## Overview
 This project analyzes Walmart transactional data to uncover insights into customer behavior, sales performance, and profitability. The dataset contains **9,969 cleaned records** across 11 features, including invoice details, branch and city information, product categories, unit prices, quantities, payment methods, ratings, and profit margins.
 
+## Tools & Technologies
+
+- Python (Pandas, NumPy)
+- SQL
+- VS Code
+
 ## Data Preparation
 - Removed **51 duplicate records**
 - Dropped **31 rows with missing values** in `unit_price` and `quantity`
